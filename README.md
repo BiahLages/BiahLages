@@ -11,6 +11,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiahLages&layout=compact&theme=dracula&cache_seconds=2000&langs_count=6"/>
 </div>
 
+## <img align="right" alt="Thabs-pic" height="140" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/899333902588579851/996476927265222837/picasion.com_30ec33f491f69c8dc49d305d01cfef04.gif?width=468&height=468">
 
 ### Tecnologies
 
