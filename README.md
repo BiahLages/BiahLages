@@ -5,10 +5,10 @@
 <p>-👯 I'm looking for a job as a Front-end developer.</p>
 <p>-⚡ Fun-facts: I'm an actress, singer and song writer. I like to play video-games, watch animes and read books and mangas.</p>
 
-<div>
+<div style="display: flex; justify-content: space-evenly; flex-wrap: nowrap">
 <a href="https://github.com/BiahLages">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiahLages&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiahLages&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiahLages&hide=stars&count_private=true&show_icons=true&theme=radical&hide_rank=true&cache_seconds=2000&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiahLages&layout=compact&theme=radical&cache_seconds=2000&langs_count=6"/>
 </div>
 
 
