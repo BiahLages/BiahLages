@@ -13,7 +13,7 @@
 
 ## <img align="right" alt="Thabs-pic" height="140" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/899333902588579851/996476927265222837/picasion.com_30ec33f491f69c8dc49d305d01cfef04.gif?width=468&height=468">
 
-### Tecnologies
+### Technologies
 
 <div>          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
