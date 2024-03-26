@@ -1,8 +1,8 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Beatriz and my nickname is "Biah"!
 
-<p>-🔭 I'm currently working as an English Teacher and Administrative Assistant.</p>
-<p>-👯 I'm looking for a job as a Front-end developer.</p>
+<p>-🔭 I'm currently working as a Front-End analist.</p>
+<p>-👯 I'm studying UX/UI.</p>
 <p>-⚡ Fun-facts: I'm an actress, singer and song writer. I like to play video-games, watch animes and read books and mangas.</p>
 
 <div style="display: flex; justify-content: space-evenly; flex-wrap: nowrap">
@@ -21,18 +21,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</div>
-
-
-### I'm learning
-
-<div>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-</div>          
-          
- 
+</div>
+
 ### Contacts:
 
 <div>
